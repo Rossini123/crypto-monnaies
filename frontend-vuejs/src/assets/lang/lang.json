@@ -1,0 +1,24 @@
+{
+  "fr":{
+    "market":"Marché",
+    "about":"À propos",
+    "symbol":"Symbole",
+    "name":"Nom",
+    "price":"Prix",
+    "d":"j",
+    "market_cap":"Cap boursière",
+    "market_cap_rank":"Classement de la Cap boursière",
+    "last_month_p_ch":"Changement de prix du mois dernier"
+  },
+  "en":{
+    "market":"Market",
+    "about":"About",
+    "symbol":"Symbol",
+    "name":"Name",
+    "price":"Price",
+    "d":"d",
+    "market_cap":"Market Cap",
+    "market_cap_rank":"Market Cap Rank",
+    "last_month_p_ch":"Last month price change"
+  }
+}
